@@ -1,0 +1,6 @@
+Hello,
+
+This is a test SMS message.
+
+Visit:
+https://example.com
